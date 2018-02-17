@@ -8,10 +8,10 @@ from textblob import TextBlob
 import re
 import seaborn
 
-access_token = "695361221625716736-5Yr0FX65HgVJ3fyfLY9r1QaVfmfZJZT"
-access_token_secret = "9NpLRpXXagTR3AkuYk4Q5FZ4r0YqvdruMUxJVbGwZV8tn"
-consumer_key = "oHplxBuIDaYlVhYNEOSVDb3mc"
-consumer_secret = "lAL13lMy3rQy66GOfy4Ln3DNlmXljkdzKX7X7FtnxTA8yDZpg4"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 class listeners(StreamListener):
 
